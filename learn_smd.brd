@@ -22,8 +22,8 @@
 <layer number="22" name="bPlace" color="14" fill="1" visible="yes" active="yes"/>
 <layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="yes"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="no" active="yes"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="no" active="yes"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="27" name="tValues" color="7" fill="1" visible="no" active="yes"/>
 <layer number="28" name="bValues" color="7" fill="1" visible="no" active="yes"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="yes"/>
@@ -516,11 +516,12 @@ Please make sure your boards conform to these design rules.</description>
 <element name="R2" library="SparkFun-Passives" package="0805" value="220" x="21.59" y="8.89" smashed="yes" rot="R270"/>
 <element name="R3" library="SparkFun-Passives" package="0805" value="100k" x="10.16" y="13.97" smashed="yes" rot="R270"/>
 <element name="R4" library="SparkFun-Passives" package="0805" value="100k" x="15.24" y="13.97" smashed="yes" rot="R270"/>
-<element name="BT1" library="BAT-HLD-001-THM" package="LINX_BAT-HLD-001-THM" value="BAT-HLD-001-THM" x="12.7" y="26.67" rot="R180">
+<element name="BT1" library="BAT-HLD-001-THM" package="LINX_BAT-HLD-001-THM" value="BAT-HLD-001-THM" x="12.7" y="26.67" smashed="yes" rot="R180">
 <attribute name="COST1000" value="0.196" x="12.7" y="26.67" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 <attribute name="LINK_B" value="http://www.mouser.com/ProductDetail/Panasonic-Battery/CR2016/" x="12.7" y="26.67" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 <attribute name="LINK" value="http://www.mouser.com/ProductDetail/Linx-Technologies/BAT-HLD-001-THM/" x="12.7" y="26.67" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 <attribute name="COST1000_B" value="0.184" x="12.7" y="26.67" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
+<attribute name="VALUE" x="24.7" y="37.37" size="1.27" layer="27" rot="R180"/>
 </element>
 </elements>
 <signals>
