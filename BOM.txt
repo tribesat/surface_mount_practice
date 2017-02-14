@@ -5,4 +5,4 @@ Red led, 0805, 2, 160-1469-2-ND
 220 resistor, 0805, 2, 311-100KCRCT-ND
 10uF capacitor, 0805, 2, 490-3340-1-ND
 NPN transistor, SOT-23, 2, MMBT2222ALT1GOSCT-ND
-Curved Battery Holder, 20mm, 1, BAT-HLD-001-ND
+Curved Battery Holder, 20mm, 1, BAT-HLD-001-THM
