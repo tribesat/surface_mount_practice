@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.005" altunitdist="inch" altunit="inch"/>
+<grid distance="0.01" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.005" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
@@ -198,6 +198,8 @@ Practice Board</text>
 <text x="1.27" y="3.175" size="1.016" layer="21" font="vector" ratio="15">Hall</text>
 <text x="20.32" y="5.08" size="1.016" layer="21" font="vector" ratio="15">Maker</text>
 <text x="20.32" y="3.175" size="1.016" layer="21" font="vector" ratio="15">Space</text>
+<text x="6.858" y="12.192" size="1.016" layer="21" font="vector" ratio="15">G</text>
+<text x="17.526" y="12.192" size="1.016" layer="21" font="vector" ratio="15">G</text>
 </plain>
 <libraries>
 <library name="SparkFun-Capacitors">
